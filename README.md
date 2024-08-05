@@ -41,9 +41,9 @@
 <p align="left">Download file and run command in root folder :</p>
 
 ###
-
+```
 <p align="left">npx expo start</p>
-
+```
 ###
 
 <h2 align="center">I code with</h2>

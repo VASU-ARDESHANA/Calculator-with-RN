@@ -1,23 +1,44 @@
-# Calculator-with-RN
-React native Calculator
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
+<h2 align="left">This is a Calculator Screen Short</h2>
+
+###
+
 <div align="center">
+  <img height="500" src="https://raw.githubusercontent.com/VASU-ARDESHANA/Calculator-with-RN/main/ScreenShort/Screenshot_2024-08-05-10-11-42-10_f73b71075b1de7323614b647fe394240.jpg"  />
 </div>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h2 align="left">Features</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">Dark mode<br>Beautiful UI<br>Minimalistic</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left">Tools</h2>
+
+###
+
+<p align="left">React Native Expo<br>Typescript</p>
+
+###
+
+<h2 align="left">How to Clone this Project?</h2>
+
+###
+
+<p align="left">Download file and run command in root folder :</p>
+
+###
+
+<br clear="both">
+
+<p align="left">npx expo start</p>
 
 ###
 

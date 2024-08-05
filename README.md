@@ -10,7 +10,7 @@
 
 ###
 
-<img align="left" height="500" src="https://raw.githubusercontent.com/VASU-ARDESHANA/Calculator-with-RN/main/ScreenShort/Screenshot_2024-08-05-10-11-55-50_f73b71075b1de7323614b647fe394240.jpg"  />
+<img align="right" height="505" src="https://raw.githubusercontent.com/VASU-ARDESHANA/Calculator-with-RN/main/ScreenShort/Screenshot_2024-08-05-10-11-55-50_f73b71075b1de7323614b647fe394240.jpg"  />
 
 ###
 
@@ -29,6 +29,8 @@
 <p align="left">React Native Expo<br>Typescript</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">How to Clone this Project?</h2>
 

@@ -8,6 +8,7 @@
 
 <div align="center">
   <img height="500" src="https://raw.githubusercontent.com/VASU-ARDESHANA/Calculator-with-RN/main/ScreenShort/Screenshot_2024-08-05-10-11-42-10_f73b71075b1de7323614b647fe394240.jpg"  />
+  <img height="500" src="https://raw.githubusercontent.com/VASU-ARDESHANA/Calculator-with-RN/main/ScreenShort/Screenshot_2024-08-05-10-11-55-50_f73b71075b1de7323614b647fe394240.jpg"  />
 </div>
 
 ###
@@ -35,8 +36,6 @@
 <p align="left">Download file and run command in root folder :</p>
 
 ###
-
-<br clear="both">
 
 <p align="left">npx expo start</p>
 

@@ -42,7 +42,7 @@
 
 ###
 ```
-<p align="left">npx expo start</p>
+npx expo start
 ```
 ###
 
